@@ -1,16 +1,20 @@
-# handwritten_number_recognizer
+# Handwritten Number Recognizer
 
-A new Flutter project.
+Flutter and TensorFlow meet!
 
-## Getting Started
+## Where did I learn it?
+[Handwriting number recognizer with Flutter and Tensorflow](https://medium.com/flutter-community/handwriting-number-recognizer-with-flutter-and-tensorflow-part-i-414157b7574f)
 
-This project is a starting point for a Flutter application.
+## Working:
+So, trained a mnsit dataset for handwritten numbers and deployed the model on to Flutter application.
+You can check out this file [brain](https://github.com/NirmitSawant/HandwrittenNumberRecognizer/blob/master/lib/brain.dart) for more connectivity details!
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshots:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![WhatsApp Image 2021-04-15 at 20 21 26](https://user-images.githubusercontent.com/45462725/114890195-6d9fc600-9e28-11eb-8ee8-944f7dda2475.jpeg)
+![WhatsApp Image 2021-04-15 at 20 21 26 (1)](https://user-images.githubusercontent.com/45462725/114890201-6ed0f300-9e28-11eb-8ecf-fad760d60364.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Video Example:
+
+https://user-images.githubusercontent.com/45462725/114890372-9627c000-9e28-11eb-9b58-da86e309e02a.mp4
+
